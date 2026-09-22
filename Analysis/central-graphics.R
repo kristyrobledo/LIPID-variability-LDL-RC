@@ -299,4 +299,4 @@ doc <- add_slide(doc, layout = "Title and Content", master = "Office Theme")
 doc <- ph_with(doc, plot6, location = ph_location(width = 8, height=6) )
 
 
-print(doc, target = "Graphics-powerpoint.pptx")
+print(doc, target = "Output/Graphics-powerpoint.pptx")
