@@ -1,4 +1,4 @@
-# LIPID-variability-LDL-RC
+# LIPID trial: Variability of LDL and RC
 
 Code accompanying the manuscript:
 
@@ -20,10 +20,9 @@ The project evaluates:
 
 ```text
 .
-├── analysis/          # Analysis scripts 
-├── data/              # Input data (not publicly distributed)
-├── figures/           # Generated figures
-├── output/            # Manuscript tables and exported outputs
+├── Analysis/          # Analysis scripts 
+├── Data/              # Input data (not publicly distributed)
+├── Output/            # Manuscript tables and figures
 └── README.md          # readme
 ```
 
