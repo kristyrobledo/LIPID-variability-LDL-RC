@@ -28,7 +28,8 @@ library(rvg)
 # Load analysis dataset  ===============================
 #===============================================================================
 
-df_outcomes_notrig4 <- readRDS("Data/df_outcomes_notrigs4.RDS")
+##data is stored on secure drive
+df_outcomes_notrig4 <- readRDS("Y:/Statistics/lipid new/LIPID-variability-LDL-RC/Data/df_outcomes_notrigs4.RDS")
 
 #===============================================================================
 # Create plotting dataset ======================================================
