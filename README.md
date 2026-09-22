@@ -64,7 +64,10 @@ The original LIPID study data are not publicly available and are therefore not i
 All code required to reproduce the analyses and figures is provided. 
 Researchers interested in accessing LIPID study data should follow the appropriate data governance and approval processes detailed in the manuscript.
 
-## Outputs
+## Analysis scripts
+
+The script 'Analysis/central-graphics.R' generates the figures for the central
+illustration in the manuscript.
 
 The repository generates:
 
@@ -72,7 +75,6 @@ The repository generates:
 - Boxplots of LDL-C and remnant cholesterol measures across triglyceride quartiles
 - Comparisons between calculation methods
 - Measurement error visualisations based on coefficients of variation
-- PowerPoint files containing publication-quality figures
 
 ## Citation
 
