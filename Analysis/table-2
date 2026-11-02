@@ -21,6 +21,9 @@
 ## create function to run paired ttests for screening vs baseline and 
 # baseline comparisons of ldl and remnant cholesterol measures
 
+library(tidyverse)
+library(gtsummary)
+library(flextable)
 
 ttest_screening<-function(df) {
 
